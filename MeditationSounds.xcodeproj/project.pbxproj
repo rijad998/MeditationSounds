@@ -1,0 +1,1117 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		834D686822943DFF00E89EA6 /* choir.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684022943DFD00E89EA6 /* choir.jpg */; };
+		834D686922943DFF00E89EA6 /* water-drop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684122943DFD00E89EA6 /* water-drop.jpg */; };
+		834D686A22943DFF00E89EA6 /* acoustic-guitar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684222943DFD00E89EA6 /* acoustic-guitar.jpg */; };
+		834D686B22943DFF00E89EA6 /* drops-cave.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684322943DFD00E89EA6 /* drops-cave.jpg */; };
+		834D686C22943DFF00E89EA6 /* desert-blues.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684422943DFD00E89EA6 /* desert-blues.jpg */; };
+		834D686D22943DFF00E89EA6 /* fireplace.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684522943DFD00E89EA6 /* fireplace.jpg */; };
+		834D686E22943DFF00E89EA6 /* reverse-track.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684622943DFD00E89EA6 /* reverse-track.jpg */; };
+		834D686F22943DFF00E89EA6 /* sitar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684722943DFD00E89EA6 /* sitar.jpg */; };
+		834D687022943DFF00E89EA6 /* ambient-guitar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684822943DFD00E89EA6 /* ambient-guitar.jpg */; };
+		834D687222943DFF00E89EA6 /* heart-beat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684A22943DFE00E89EA6 /* heart-beat.jpg */; };
+		834D687322943DFF00E89EA6 /* outer-space.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684B22943DFE00E89EA6 /* outer-space.jpg */; };
+		834D687422943DFF00E89EA6 /* guzheng.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684C22943DFE00E89EA6 /* guzheng.jpg */; };
+		834D687522943DFF00E89EA6 /* wind.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684D22943DFE00E89EA6 /* wind.jpg */; };
+		834D687622943DFF00E89EA6 /* tibetan-bowl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684E22943DFE00E89EA6 /* tibetan-bowl.jpg */; };
+		834D687722943DFF00E89EA6 /* winter-sounds.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D684F22943DFE00E89EA6 /* winter-sounds.jpg */; };
+		834D687822943DFF00E89EA6 /* mantra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685022943DFE00E89EA6 /* mantra.jpg */; };
+		834D687922943DFF00E89EA6 /* flute.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685122943DFE00E89EA6 /* flute.jpg */; };
+		834D687A22943DFF00E89EA6 /* river-flow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685222943DFE00E89EA6 /* river-flow.jpg */; };
+		834D687B22943DFF00E89EA6 /* african-drums.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685322943DFE00E89EA6 /* african-drums.jpg */; };
+		834D687C22943DFF00E89EA6 /* elf-song.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685422943DFE00E89EA6 /* elf-song.jpg */; };
+		834D687D22943DFF00E89EA6 /* meditate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685522943DFE00E89EA6 /* meditate.jpg */; };
+		834D687F22943DFF00E89EA6 /* seaguls.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685722943DFE00E89EA6 /* seaguls.jpg */; };
+		834D688022943DFF00E89EA6 /* sonar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685822943DFE00E89EA6 /* sonar.jpg */; };
+		834D688122943DFF00E89EA6 /* violin-orchestra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685922943DFE00E89EA6 /* violin-orchestra.jpg */; };
+		834D688222943DFF00E89EA6 /* neon-synth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685A22943DFE00E89EA6 /* neon-synth.jpg */; };
+		834D688322943DFF00E89EA6 /* frogs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685B22943DFE00E89EA6 /* frogs.jpg */; };
+		834D688422943DFF00E89EA6 /* rain-fall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685C22943DFE00E89EA6 /* rain-fall.jpg */; };
+		834D688522943DFF00E89EA6 /* clock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685D22943DFF00E89EA6 /* clock.jpg */; };
+		834D688622943DFF00E89EA6 /* low-synth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685E22943DFF00E89EA6 /* low-synth.jpg */; };
+		834D688722943DFF00E89EA6 /* nostalgic-synth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D685F22943DFF00E89EA6 /* nostalgic-synth.jpg */; };
+		834D688822943DFF00E89EA6 /* temple-bell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D686022943DFF00E89EA6 /* temple-bell.jpg */; };
+		834D688922943DFF00E89EA6 /* cyber-chill.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D686122943DFF00E89EA6 /* cyber-chill.jpg */; };
+		834D688A22943DFF00E89EA6 /* crickets.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D686222943DFF00E89EA6 /* crickets.jpg */; };
+		834D688B22943DFF00E89EA6 /* zen-garden.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D686322943DFF00E89EA6 /* zen-garden.jpg */; };
+		834D688C22943DFF00E89EA6 /* hang-drum.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D686422943DFF00E89EA6 /* hang-drum.jpg */; };
+		834D688D22943DFF00E89EA6 /* birds-sing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D686522943DFF00E89EA6 /* birds-sing.jpg */; };
+		834D688E22943DFF00E89EA6 /* thunderstorm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D686622943DFF00E89EA6 /* thunderstorm.jpg */; };
+		834D688F22943DFF00E89EA6 /* wind-chimes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D686722943DFF00E89EA6 /* wind-chimes.jpg */; };
+		834D68B822943F7B00E89EA6 /* birds-sing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689022943F7800E89EA6 /* birds-sing.mp3 */; };
+		834D68B922943F7B00E89EA6 /* frogs.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689122943F7800E89EA6 /* frogs.mp3 */; };
+		834D68BA22943F7B00E89EA6 /* violin-orchestra.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689222943F7800E89EA6 /* violin-orchestra.mp3 */; };
+		834D68BB22943F7B00E89EA6 /* sax.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689322943F7800E89EA6 /* sax.mp3 */; };
+		834D68BC22943F7B00E89EA6 /* seaguls.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689422943F7800E89EA6 /* seaguls.mp3 */; };
+		834D68BD22943F7B00E89EA6 /* sitar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689522943F7900E89EA6 /* sitar.mp3 */; };
+		834D68BE22943F7B00E89EA6 /* clock.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689622943F7900E89EA6 /* clock.mp3 */; };
+		834D68BF22943F7B00E89EA6 /* river-flow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689722943F7900E89EA6 /* river-flow.mp3 */; };
+		834D68C022943F7B00E89EA6 /* water-drop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689822943F7900E89EA6 /* water-drop.mp3 */; };
+		834D68C122943F7B00E89EA6 /* elf-song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689922943F7900E89EA6 /* elf-song.mp3 */; };
+		834D68C222943F7B00E89EA6 /* deep-harph.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689A22943F7900E89EA6 /* deep-harph.mp3 */; };
+		834D68C322943F7B00E89EA6 /* desert-blues.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689B22943F7900E89EA6 /* desert-blues.mp3 */; };
+		834D68C422943F7B00E89EA6 /* tibetan-bowl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689C22943F7900E89EA6 /* tibetan-bowl.mp3 */; };
+		834D68C522943F7B00E89EA6 /* nostalgic-synth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689D22943F7900E89EA6 /* nostalgic-synth.mp3 */; };
+		834D68C622943F7B00E89EA6 /* outer-space.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689E22943F7900E89EA6 /* outer-space.mp3 */; };
+		834D68C722943F7B00E89EA6 /* fireplace.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D689F22943F7900E89EA6 /* fireplace.mp3 */; };
+		834D68C822943F7B00E89EA6 /* temple-bell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A022943F7900E89EA6 /* temple-bell.mp3 */; };
+		834D68C922943F7B00E89EA6 /* choir.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A122943F7900E89EA6 /* choir.mp3 */; };
+		834D68CA22943F7B00E89EA6 /* winter-sounds.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A222943F7900E89EA6 /* winter-sounds.mp3 */; };
+		834D68CB22943F7B00E89EA6 /* acoustic-guitar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A322943F7900E89EA6 /* acoustic-guitar.mp3 */; };
+		834D68CC22943F7B00E89EA6 /* rain-fall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A422943F7900E89EA6 /* rain-fall.mp3 */; };
+		834D68CD22943F7B00E89EA6 /* mantra.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A522943F7900E89EA6 /* mantra.mp3 */; };
+		834D68CE22943F7B00E89EA6 /* thunderstorm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A622943F7A00E89EA6 /* thunderstorm.mp3 */; };
+		834D68CF22943F7B00E89EA6 /* guzheng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A722943F7A00E89EA6 /* guzheng.mp3 */; };
+		834D68D022943F7B00E89EA6 /* sonar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A822943F7A00E89EA6 /* sonar.mp3 */; };
+		834D68D122943F7B00E89EA6 /* flute.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68A922943F7A00E89EA6 /* flute.mp3 */; };
+		834D68D222943F7B00E89EA6 /* zen-garden.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68AA22943F7A00E89EA6 /* zen-garden.mp3 */; };
+		834D68D322943F7B00E89EA6 /* hang-drum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68AB22943F7A00E89EA6 /* hang-drum.mp3 */; };
+		834D68D422943F7B00E89EA6 /* crickets.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68AC22943F7A00E89EA6 /* crickets.mp3 */; };
+		834D68D522943F7B00E89EA6 /* cyber-chill.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68AD22943F7A00E89EA6 /* cyber-chill.mp3 */; };
+		834D68D622943F7B00E89EA6 /* drops-cave.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68AE22943F7A00E89EA6 /* drops-cave.mp3 */; };
+		834D68D722943F7B00E89EA6 /* low-synth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68AF22943F7A00E89EA6 /* low-synth.mp3 */; };
+		834D68D822943F7B00E89EA6 /* african-drums.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68B022943F7A00E89EA6 /* african-drums.mp3 */; };
+		834D68D922943F7B00E89EA6 /* ambient-guitar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68B122943F7A00E89EA6 /* ambient-guitar.mp3 */; };
+		834D68DA22943F7B00E89EA6 /* heart-beat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68B222943F7A00E89EA6 /* heart-beat.mp3 */; };
+		834D68DB22943F7B00E89EA6 /* meditate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68B322943F7A00E89EA6 /* meditate.mp3 */; };
+		834D68DC22943F7B00E89EA6 /* neon-synth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68B422943F7A00E89EA6 /* neon-synth.mp3 */; };
+		834D68DD22943F7B00E89EA6 /* reverse-track.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68B522943F7A00E89EA6 /* reverse-track.mp3 */; };
+		834D68DE22943F7B00E89EA6 /* wind-chimes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68B622943F7A00E89EA6 /* wind-chimes.mp3 */; };
+		834D68DF22943F7B00E89EA6 /* wind.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 834D68B722943F7A00E89EA6 /* wind.mp3 */; };
+		834D68E2229446FD00E89EA6 /* sax.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D68E0229446FD00E89EA6 /* sax.jpg */; };
+		834D68E3229446FD00E89EA6 /* deep-harph.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 834D68E1229446FD00E89EA6 /* deep-harph.jpg */; };
+		8357636D2281766F00CCA954 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8357636B2281766F00CCA954 /* Pacifico-Regular.ttf */; };
+		8357636E2281766F00CCA954 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8357636C2281766F00CCA954 /* Roboto-Regular.ttf */; };
+		835763712281884500CCA954 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835763702281884500CCA954 /* Config.swift */; };
+		8357637322818F3F00CCA954 /* TopBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8357637222818F3F00CCA954 /* TopBarView.swift */; };
+		835763752281986B00CCA954 /* moreIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 835763742281986B00CCA954 /* moreIcon.png */; };
+		835763772281B9AC00CCA954 /* MediaViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835763762281B9AC00CCA954 /* MediaViewModel.swift */; };
+		835763792281BA6700CCA954 /* Media.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835763782281BA6700CCA954 /* Media.swift */; };
+		835FE9D4227B193B00A6DA97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835FE9D3227B193B00A6DA97 /* AppDelegate.swift */; };
+		835FE9D6227B193C00A6DA97 /* MediaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835FE9D5227B193C00A6DA97 /* MediaViewController.swift */; };
+		835FE9D9227B193C00A6DA97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 835FE9D7227B193C00A6DA97 /* Main.storyboard */; };
+		835FE9DB227B193F00A6DA97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 835FE9DA227B193F00A6DA97 /* Assets.xcassets */; };
+		835FE9DE227B193F00A6DA97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 835FE9DC227B193F00A6DA97 /* LaunchScreen.storyboard */; };
+		835FE9E9227B193F00A6DA97 /* MeditationSoundsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835FE9E8227B193F00A6DA97 /* MeditationSoundsTests.swift */; };
+		835FE9F4227B194000A6DA97 /* MeditationSoundsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835FE9F3227B194000A6DA97 /* MeditationSoundsUITests.swift */; };
+		835FEA0222801FD000A6DA97 /* SoundCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835FEA0122801FD000A6DA97 /* SoundCell.swift */; };
+		835FEA0E22802A6600A6DA97 /* echo-tube.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0422802A6600A6DA97 /* echo-tube.jpg */; };
+		835FEA0F22802A6600A6DA97 /* relaxing-horn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0522802A6600A6DA97 /* relaxing-horn.jpg */; };
+		835FEA1022802A6600A6DA97 /* calm-piano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0622802A6600A6DA97 /* calm-piano.jpg */; };
+		835FEA1122802A6600A6DA97 /* electric-waterdrop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0722802A6600A6DA97 /* electric-waterdrop.jpg */; };
+		835FEA1222802A6600A6DA97 /* underwater-bass.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0822802A6600A6DA97 /* underwater-bass.jpg */; };
+		835FEA1322802A6600A6DA97 /* bell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0922802A6600A6DA97 /* bell.jpg */; };
+		835FEA1422802A6600A6DA97 /* forest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0A22802A6600A6DA97 /* forest.jpg */; };
+		835FEA1522802A6600A6DA97 /* didgeridoo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0B22802A6600A6DA97 /* didgeridoo.jpg */; };
+		835FEA1622802A6600A6DA97 /* mystic-opera.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0C22802A6600A6DA97 /* mystic-opera.jpg */; };
+		835FEA1722802A6600A6DA97 /* owl-hooting.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA0D22802A6600A6DA97 /* owl-hooting.jpg */; };
+		835FEA2A228041B600A6DA97 /* didgeridoo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA20228041B500A6DA97 /* didgeridoo.mp3 */; };
+		835FEA2B228041B600A6DA97 /* calm-piano.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA21228041B500A6DA97 /* calm-piano.mp3 */; };
+		835FEA2C228041B600A6DA97 /* bell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA22228041B600A6DA97 /* bell.mp3 */; };
+		835FEA2D228041B600A6DA97 /* relaxing-horn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA23228041B600A6DA97 /* relaxing-horn.mp3 */; };
+		835FEA2E228041B600A6DA97 /* underwater-bass.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA24228041B600A6DA97 /* underwater-bass.mp3 */; };
+		835FEA2F228041B600A6DA97 /* mystic-opera.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA25228041B600A6DA97 /* mystic-opera.mp3 */; };
+		835FEA30228041B600A6DA97 /* electric-waterdrop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA26228041B600A6DA97 /* electric-waterdrop.mp3 */; };
+		835FEA31228041B600A6DA97 /* forest.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA27228041B600A6DA97 /* forest.mp3 */; };
+		835FEA32228041B600A6DA97 /* echo-tube.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA28228041B600A6DA97 /* echo-tube.mp3 */; };
+		835FEA33228041B600A6DA97 /* owl-hooting.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 835FEA29228041B600A6DA97 /* owl-hooting.mp3 */; };
+		8361CAD1228561A5009BB3CB /* unmuteIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8361CACF228561A5009BB3CB /* unmuteIcon.png */; };
+		8361CAD2228561A5009BB3CB /* muteIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8361CAD0228561A5009BB3CB /* muteIcon.png */; };
+		8361CAD422899743009BB3CB /* PlayerHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8361CAD322899743009BB3CB /* PlayerHandler.swift */; };
+		83628A6D22969F1700B58D5D /* playButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 83628A6B22969F1700B58D5D /* playButton.png */; };
+		83628A6E22969F1700B58D5D /* pauseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 83628A6C22969F1700B58D5D /* pauseButton.png */; };
+		8364D7972292A699000F784C /* ToastMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8364D7962292A699000F784C /* ToastMessageView.swift */; };
+		836FD8DF228077DB00A86ACD /* gradientOverlay.png in Resources */ = {isa = PBXBuildFile; fileRef = 836FD8DE228077DB00A86ACD /* gradientOverlay.png */; };
+		83F3F5822282C54E00407EB3 /* AudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F3F5812282C54E00407EB3 /* AudioPlayer.swift */; };
+		F49117E122968337001AC373 /* Extexsions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49117E022968337001AC373 /* Extexsions.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		835FE9E5227B193F00A6DA97 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 835FE9C8227B193B00A6DA97 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 835FE9CF227B193B00A6DA97;
+			remoteInfo = MeditationSounds;
+		};
+		835FE9F0227B194000A6DA97 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 835FE9C8227B193B00A6DA97 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 835FE9CF227B193B00A6DA97;
+			remoteInfo = MeditationSounds;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		834D684022943DFD00E89EA6 /* choir.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = choir.jpg; sourceTree = "<group>"; };
+		834D684122943DFD00E89EA6 /* water-drop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "water-drop.jpg"; sourceTree = "<group>"; };
+		834D684222943DFD00E89EA6 /* acoustic-guitar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "acoustic-guitar.jpg"; sourceTree = "<group>"; };
+		834D684322943DFD00E89EA6 /* drops-cave.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "drops-cave.jpg"; sourceTree = "<group>"; };
+		834D684422943DFD00E89EA6 /* desert-blues.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "desert-blues.jpg"; sourceTree = "<group>"; };
+		834D684522943DFD00E89EA6 /* fireplace.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fireplace.jpg; sourceTree = "<group>"; };
+		834D684622943DFD00E89EA6 /* reverse-track.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "reverse-track.jpg"; sourceTree = "<group>"; };
+		834D684722943DFD00E89EA6 /* sitar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sitar.jpg; sourceTree = "<group>"; };
+		834D684822943DFD00E89EA6 /* ambient-guitar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ambient-guitar.jpg"; sourceTree = "<group>"; };
+		834D684A22943DFE00E89EA6 /* heart-beat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "heart-beat.jpg"; sourceTree = "<group>"; };
+		834D684B22943DFE00E89EA6 /* outer-space.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "outer-space.jpg"; sourceTree = "<group>"; };
+		834D684C22943DFE00E89EA6 /* guzheng.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = guzheng.jpg; sourceTree = "<group>"; };
+		834D684D22943DFE00E89EA6 /* wind.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wind.jpg; sourceTree = "<group>"; };
+		834D684E22943DFE00E89EA6 /* tibetan-bowl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tibetan-bowl.jpg"; sourceTree = "<group>"; };
+		834D684F22943DFE00E89EA6 /* winter-sounds.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "winter-sounds.jpg"; sourceTree = "<group>"; };
+		834D685022943DFE00E89EA6 /* mantra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mantra.jpg; sourceTree = "<group>"; };
+		834D685122943DFE00E89EA6 /* flute.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flute.jpg; sourceTree = "<group>"; };
+		834D685222943DFE00E89EA6 /* river-flow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "river-flow.jpg"; sourceTree = "<group>"; };
+		834D685322943DFE00E89EA6 /* african-drums.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "african-drums.jpg"; sourceTree = "<group>"; };
+		834D685422943DFE00E89EA6 /* elf-song.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "elf-song.jpg"; sourceTree = "<group>"; };
+		834D685522943DFE00E89EA6 /* meditate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meditate.jpg; sourceTree = "<group>"; };
+		834D685722943DFE00E89EA6 /* seaguls.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seaguls.jpg; sourceTree = "<group>"; };
+		834D685822943DFE00E89EA6 /* sonar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sonar.jpg; sourceTree = "<group>"; };
+		834D685922943DFE00E89EA6 /* violin-orchestra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "violin-orchestra.jpg"; sourceTree = "<group>"; };
+		834D685A22943DFE00E89EA6 /* neon-synth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "neon-synth.jpg"; sourceTree = "<group>"; };
+		834D685B22943DFE00E89EA6 /* frogs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = frogs.jpg; sourceTree = "<group>"; };
+		834D685C22943DFE00E89EA6 /* rain-fall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rain-fall.jpg"; sourceTree = "<group>"; };
+		834D685D22943DFF00E89EA6 /* clock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = clock.jpg; sourceTree = "<group>"; };
+		834D685E22943DFF00E89EA6 /* low-synth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "low-synth.jpg"; sourceTree = "<group>"; };
+		834D685F22943DFF00E89EA6 /* nostalgic-synth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nostalgic-synth.jpg"; sourceTree = "<group>"; };
+		834D686022943DFF00E89EA6 /* temple-bell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "temple-bell.jpg"; sourceTree = "<group>"; };
+		834D686122943DFF00E89EA6 /* cyber-chill.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cyber-chill.jpg"; sourceTree = "<group>"; };
+		834D686222943DFF00E89EA6 /* crickets.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = crickets.jpg; sourceTree = "<group>"; };
+		834D686322943DFF00E89EA6 /* zen-garden.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "zen-garden.jpg"; sourceTree = "<group>"; };
+		834D686422943DFF00E89EA6 /* hang-drum.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hang-drum.jpg"; sourceTree = "<group>"; };
+		834D686522943DFF00E89EA6 /* birds-sing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "birds-sing.jpg"; sourceTree = "<group>"; };
+		834D686622943DFF00E89EA6 /* thunderstorm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thunderstorm.jpg; sourceTree = "<group>"; };
+		834D686722943DFF00E89EA6 /* wind-chimes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "wind-chimes.jpg"; sourceTree = "<group>"; };
+		834D689022943F7800E89EA6 /* birds-sing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "birds-sing.mp3"; sourceTree = "<group>"; };
+		834D689122943F7800E89EA6 /* frogs.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = frogs.mp3; sourceTree = "<group>"; };
+		834D689222943F7800E89EA6 /* violin-orchestra.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "violin-orchestra.mp3"; sourceTree = "<group>"; };
+		834D689322943F7800E89EA6 /* sax.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sax.mp3; sourceTree = "<group>"; };
+		834D689422943F7800E89EA6 /* seaguls.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = seaguls.mp3; sourceTree = "<group>"; };
+		834D689522943F7900E89EA6 /* sitar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sitar.mp3; sourceTree = "<group>"; };
+		834D689622943F7900E89EA6 /* clock.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = clock.mp3; sourceTree = "<group>"; };
+		834D689722943F7900E89EA6 /* river-flow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "river-flow.mp3"; sourceTree = "<group>"; };
+		834D689822943F7900E89EA6 /* water-drop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "water-drop.mp3"; sourceTree = "<group>"; };
+		834D689922943F7900E89EA6 /* elf-song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "elf-song.mp3"; sourceTree = "<group>"; };
+		834D689A22943F7900E89EA6 /* deep-harph.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "deep-harph.mp3"; sourceTree = "<group>"; };
+		834D689B22943F7900E89EA6 /* desert-blues.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "desert-blues.mp3"; sourceTree = "<group>"; };
+		834D689C22943F7900E89EA6 /* tibetan-bowl.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tibetan-bowl.mp3"; sourceTree = "<group>"; };
+		834D689D22943F7900E89EA6 /* nostalgic-synth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "nostalgic-synth.mp3"; sourceTree = "<group>"; };
+		834D689E22943F7900E89EA6 /* outer-space.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "outer-space.mp3"; sourceTree = "<group>"; };
+		834D689F22943F7900E89EA6 /* fireplace.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fireplace.mp3; sourceTree = "<group>"; };
+		834D68A022943F7900E89EA6 /* temple-bell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "temple-bell.mp3"; sourceTree = "<group>"; };
+		834D68A122943F7900E89EA6 /* choir.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = choir.mp3; sourceTree = "<group>"; };
+		834D68A222943F7900E89EA6 /* winter-sounds.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "winter-sounds.mp3"; sourceTree = "<group>"; };
+		834D68A322943F7900E89EA6 /* acoustic-guitar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "acoustic-guitar.mp3"; sourceTree = "<group>"; };
+		834D68A422943F7900E89EA6 /* rain-fall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "rain-fall.mp3"; sourceTree = "<group>"; };
+		834D68A522943F7900E89EA6 /* mantra.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mantra.mp3; sourceTree = "<group>"; };
+		834D68A622943F7A00E89EA6 /* thunderstorm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thunderstorm.mp3; sourceTree = "<group>"; };
+		834D68A722943F7A00E89EA6 /* guzheng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guzheng.mp3; sourceTree = "<group>"; };
+		834D68A822943F7A00E89EA6 /* sonar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sonar.mp3; sourceTree = "<group>"; };
+		834D68A922943F7A00E89EA6 /* flute.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = flute.mp3; sourceTree = "<group>"; };
+		834D68AA22943F7A00E89EA6 /* zen-garden.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zen-garden.mp3"; sourceTree = "<group>"; };
+		834D68AB22943F7A00E89EA6 /* hang-drum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "hang-drum.mp3"; sourceTree = "<group>"; };
+		834D68AC22943F7A00E89EA6 /* crickets.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crickets.mp3; sourceTree = "<group>"; };
+		834D68AD22943F7A00E89EA6 /* cyber-chill.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "cyber-chill.mp3"; sourceTree = "<group>"; };
+		834D68AE22943F7A00E89EA6 /* drops-cave.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "drops-cave.mp3"; sourceTree = "<group>"; };
+		834D68AF22943F7A00E89EA6 /* low-synth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "low-synth.mp3"; sourceTree = "<group>"; };
+		834D68B022943F7A00E89EA6 /* african-drums.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "african-drums.mp3"; sourceTree = "<group>"; };
+		834D68B122943F7A00E89EA6 /* ambient-guitar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ambient-guitar.mp3"; sourceTree = "<group>"; };
+		834D68B222943F7A00E89EA6 /* heart-beat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "heart-beat.mp3"; sourceTree = "<group>"; };
+		834D68B322943F7A00E89EA6 /* meditate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = meditate.mp3; sourceTree = "<group>"; };
+		834D68B422943F7A00E89EA6 /* neon-synth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "neon-synth.mp3"; sourceTree = "<group>"; };
+		834D68B522943F7A00E89EA6 /* reverse-track.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "reverse-track.mp3"; sourceTree = "<group>"; };
+		834D68B622943F7A00E89EA6 /* wind-chimes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "wind-chimes.mp3"; sourceTree = "<group>"; };
+		834D68B722943F7A00E89EA6 /* wind.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wind.mp3; sourceTree = "<group>"; };
+		834D68E0229446FD00E89EA6 /* sax.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sax.jpg; sourceTree = "<group>"; };
+		834D68E1229446FD00E89EA6 /* deep-harph.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "deep-harph.jpg"; sourceTree = "<group>"; };
+		8357636B2281766F00CCA954 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
+		8357636C2281766F00CCA954 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		835763702281884500CCA954 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
+		8357637222818F3F00CCA954 /* TopBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopBarView.swift; sourceTree = "<group>"; };
+		835763742281986B00CCA954 /* moreIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moreIcon.png; sourceTree = "<group>"; };
+		835763762281B9AC00CCA954 /* MediaViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaViewModel.swift; sourceTree = "<group>"; };
+		835763782281BA6700CCA954 /* Media.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Media.swift; sourceTree = "<group>"; };
+		835FE9D0227B193B00A6DA97 /* MeditationSounds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeditationSounds.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		835FE9D3227B193B00A6DA97 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		835FE9D5227B193C00A6DA97 /* MediaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaViewController.swift; sourceTree = "<group>"; };
+		835FE9D8227B193C00A6DA97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		835FE9DA227B193F00A6DA97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		835FE9DD227B193F00A6DA97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		835FE9DF227B193F00A6DA97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		835FE9E4227B193F00A6DA97 /* MeditationSoundsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeditationSoundsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		835FE9E8227B193F00A6DA97 /* MeditationSoundsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeditationSoundsTests.swift; sourceTree = "<group>"; };
+		835FE9EA227B193F00A6DA97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		835FE9EF227B194000A6DA97 /* MeditationSoundsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeditationSoundsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		835FE9F3227B194000A6DA97 /* MeditationSoundsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeditationSoundsUITests.swift; sourceTree = "<group>"; };
+		835FE9F5227B194000A6DA97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		835FEA0122801FD000A6DA97 /* SoundCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundCell.swift; sourceTree = "<group>"; };
+		835FEA0422802A6600A6DA97 /* echo-tube.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "echo-tube.jpg"; sourceTree = "<group>"; };
+		835FEA0522802A6600A6DA97 /* relaxing-horn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "relaxing-horn.jpg"; sourceTree = "<group>"; };
+		835FEA0622802A6600A6DA97 /* calm-piano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "calm-piano.jpg"; sourceTree = "<group>"; };
+		835FEA0722802A6600A6DA97 /* electric-waterdrop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "electric-waterdrop.jpg"; sourceTree = "<group>"; };
+		835FEA0822802A6600A6DA97 /* underwater-bass.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "underwater-bass.jpg"; sourceTree = "<group>"; };
+		835FEA0922802A6600A6DA97 /* bell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bell.jpg; sourceTree = "<group>"; };
+		835FEA0A22802A6600A6DA97 /* forest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = forest.jpg; sourceTree = "<group>"; };
+		835FEA0B22802A6600A6DA97 /* didgeridoo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = didgeridoo.jpg; sourceTree = "<group>"; };
+		835FEA0C22802A6600A6DA97 /* mystic-opera.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "mystic-opera.jpg"; sourceTree = "<group>"; };
+		835FEA0D22802A6600A6DA97 /* owl-hooting.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "owl-hooting.jpg"; sourceTree = "<group>"; };
+		835FEA20228041B500A6DA97 /* didgeridoo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = didgeridoo.mp3; sourceTree = "<group>"; };
+		835FEA21228041B500A6DA97 /* calm-piano.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "calm-piano.mp3"; sourceTree = "<group>"; };
+		835FEA22228041B600A6DA97 /* bell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bell.mp3; sourceTree = "<group>"; };
+		835FEA23228041B600A6DA97 /* relaxing-horn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "relaxing-horn.mp3"; sourceTree = "<group>"; };
+		835FEA24228041B600A6DA97 /* underwater-bass.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "underwater-bass.mp3"; sourceTree = "<group>"; };
+		835FEA25228041B600A6DA97 /* mystic-opera.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "mystic-opera.mp3"; sourceTree = "<group>"; };
+		835FEA26228041B600A6DA97 /* electric-waterdrop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "electric-waterdrop.mp3"; sourceTree = "<group>"; };
+		835FEA27228041B600A6DA97 /* forest.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = forest.mp3; sourceTree = "<group>"; };
+		835FEA28228041B600A6DA97 /* echo-tube.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "echo-tube.mp3"; sourceTree = "<group>"; };
+		835FEA29228041B600A6DA97 /* owl-hooting.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "owl-hooting.mp3"; sourceTree = "<group>"; };
+		8361CACF228561A5009BB3CB /* unmuteIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unmuteIcon.png; sourceTree = "<group>"; };
+		8361CAD0228561A5009BB3CB /* muteIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = muteIcon.png; sourceTree = "<group>"; };
+		8361CAD322899743009BB3CB /* PlayerHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerHandler.swift; sourceTree = "<group>"; };
+		83628A6B22969F1700B58D5D /* playButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = playButton.png; path = "../../../../../Downloads/baseline-play_arrow-ios-white/baseline_play_arrow_white_48pt.xcassets/baseline_play_arrow_white_48pt.imageset/playButton.png"; sourceTree = "<group>"; };
+		83628A6C22969F1700B58D5D /* pauseButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pauseButton.png; path = "../../../../../Downloads/baseline-pause-ios-white/baseline_pause_white_48pt.xcassets/baseline_pause_white_48pt.imageset/pauseButton.png"; sourceTree = "<group>"; };
+		8364D7962292A699000F784C /* ToastMessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToastMessageView.swift; sourceTree = "<group>"; };
+		836FD8DE228077DB00A86ACD /* gradientOverlay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gradientOverlay.png; sourceTree = "<group>"; };
+		83F3F5812282C54E00407EB3 /* AudioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayer.swift; sourceTree = "<group>"; };
+		F49117E022968337001AC373 /* Extexsions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extexsions.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		835FE9CD227B193B00A6DA97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		835FE9E1227B193F00A6DA97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		835FE9EC227B194000A6DA97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8357636A2281765200CCA954 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8357636B2281766F00CCA954 /* Pacifico-Regular.ttf */,
+				8357636C2281766F00CCA954 /* Roboto-Regular.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		8357636F2281882C00CCA954 /* AppConfig */ = {
+			isa = PBXGroup;
+			children = (
+				835763702281884500CCA954 /* Config.swift */,
+			);
+			path = AppConfig;
+			sourceTree = "<group>";
+		};
+		835FE9C7227B193B00A6DA97 = {
+			isa = PBXGroup;
+			children = (
+				835FE9D2227B193B00A6DA97 /* MeditationSounds */,
+				835FE9E7227B193F00A6DA97 /* MeditationSoundsTests */,
+				835FE9F2227B194000A6DA97 /* MeditationSoundsUITests */,
+				835FE9D1227B193B00A6DA97 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		835FE9D1227B193B00A6DA97 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				835FE9D0227B193B00A6DA97 /* MeditationSounds.app */,
+				835FE9E4227B193F00A6DA97 /* MeditationSoundsTests.xctest */,
+				835FE9EF227B194000A6DA97 /* MeditationSoundsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		835FE9D2227B193B00A6DA97 /* MeditationSounds */ = {
+			isa = PBXGroup;
+			children = (
+				F49117DF2296831B001AC373 /* Helper */,
+				8357636F2281882C00CCA954 /* AppConfig */,
+				835FEA0322802A4D00A6DA97 /* media */,
+				835FE9D3227B193B00A6DA97 /* AppDelegate.swift */,
+				835FE9D5227B193C00A6DA97 /* MediaViewController.swift */,
+				835FE9D7227B193C00A6DA97 /* Main.storyboard */,
+				835FE9DA227B193F00A6DA97 /* Assets.xcassets */,
+				835FE9DC227B193F00A6DA97 /* LaunchScreen.storyboard */,
+				835FE9DF227B193F00A6DA97 /* Info.plist */,
+				835FEA0122801FD000A6DA97 /* SoundCell.swift */,
+				8357637222818F3F00CCA954 /* TopBarView.swift */,
+				835763762281B9AC00CCA954 /* MediaViewModel.swift */,
+				835763782281BA6700CCA954 /* Media.swift */,
+				83F3F5812282C54E00407EB3 /* AudioPlayer.swift */,
+				8361CAD322899743009BB3CB /* PlayerHandler.swift */,
+				8364D7962292A699000F784C /* ToastMessageView.swift */,
+			);
+			path = MeditationSounds;
+			sourceTree = "<group>";
+		};
+		835FE9E7227B193F00A6DA97 /* MeditationSoundsTests */ = {
+			isa = PBXGroup;
+			children = (
+				835FE9E8227B193F00A6DA97 /* MeditationSoundsTests.swift */,
+				835FE9EA227B193F00A6DA97 /* Info.plist */,
+			);
+			path = MeditationSoundsTests;
+			sourceTree = "<group>";
+		};
+		835FE9F2227B194000A6DA97 /* MeditationSoundsUITests */ = {
+			isa = PBXGroup;
+			children = (
+				835FE9F3227B194000A6DA97 /* MeditationSoundsUITests.swift */,
+				835FE9F5227B194000A6DA97 /* Info.plist */,
+			);
+			path = MeditationSoundsUITests;
+			sourceTree = "<group>";
+		};
+		835FEA0322802A4D00A6DA97 /* media */ = {
+			isa = PBXGroup;
+			children = (
+				8357636A2281765200CCA954 /* fonts */,
+				835FEA1F2280419A00A6DA97 /* playlist */,
+				835FEA1E2280418800A6DA97 /* images */,
+				835FEA18228038AB00A6DA97 /* icon */,
+			);
+			path = media;
+			sourceTree = "<group>";
+		};
+		835FEA18228038AB00A6DA97 /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				83628A6C22969F1700B58D5D /* pauseButton.png */,
+				83628A6B22969F1700B58D5D /* playButton.png */,
+				8361CAD0228561A5009BB3CB /* muteIcon.png */,
+				8361CACF228561A5009BB3CB /* unmuteIcon.png */,
+				835763742281986B00CCA954 /* moreIcon.png */,
+			);
+			path = icon;
+			sourceTree = "<group>";
+		};
+		835FEA1E2280418800A6DA97 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				834D68E1229446FD00E89EA6 /* deep-harph.jpg */,
+				834D68E0229446FD00E89EA6 /* sax.jpg */,
+				834D684222943DFD00E89EA6 /* acoustic-guitar.jpg */,
+				834D685322943DFE00E89EA6 /* african-drums.jpg */,
+				834D684822943DFD00E89EA6 /* ambient-guitar.jpg */,
+				834D686522943DFF00E89EA6 /* birds-sing.jpg */,
+				834D684022943DFD00E89EA6 /* choir.jpg */,
+				834D685D22943DFF00E89EA6 /* clock.jpg */,
+				834D686222943DFF00E89EA6 /* crickets.jpg */,
+				834D686122943DFF00E89EA6 /* cyber-chill.jpg */,
+				834D684422943DFD00E89EA6 /* desert-blues.jpg */,
+				834D684322943DFD00E89EA6 /* drops-cave.jpg */,
+				834D685422943DFE00E89EA6 /* elf-song.jpg */,
+				834D684522943DFD00E89EA6 /* fireplace.jpg */,
+				834D685122943DFE00E89EA6 /* flute.jpg */,
+				834D685B22943DFE00E89EA6 /* frogs.jpg */,
+				834D684C22943DFE00E89EA6 /* guzheng.jpg */,
+				834D686422943DFF00E89EA6 /* hang-drum.jpg */,
+				834D684A22943DFE00E89EA6 /* heart-beat.jpg */,
+				834D685E22943DFF00E89EA6 /* low-synth.jpg */,
+				834D685022943DFE00E89EA6 /* mantra.jpg */,
+				834D685522943DFE00E89EA6 /* meditate.jpg */,
+				834D685A22943DFE00E89EA6 /* neon-synth.jpg */,
+				834D685F22943DFF00E89EA6 /* nostalgic-synth.jpg */,
+				834D684B22943DFE00E89EA6 /* outer-space.jpg */,
+				834D685C22943DFE00E89EA6 /* rain-fall.jpg */,
+				834D684622943DFD00E89EA6 /* reverse-track.jpg */,
+				834D685222943DFE00E89EA6 /* river-flow.jpg */,
+				834D685722943DFE00E89EA6 /* seaguls.jpg */,
+				834D684722943DFD00E89EA6 /* sitar.jpg */,
+				834D685822943DFE00E89EA6 /* sonar.jpg */,
+				834D686022943DFF00E89EA6 /* temple-bell.jpg */,
+				834D686622943DFF00E89EA6 /* thunderstorm.jpg */,
+				834D684E22943DFE00E89EA6 /* tibetan-bowl.jpg */,
+				834D685922943DFE00E89EA6 /* violin-orchestra.jpg */,
+				834D684122943DFD00E89EA6 /* water-drop.jpg */,
+				834D686722943DFF00E89EA6 /* wind-chimes.jpg */,
+				834D684D22943DFE00E89EA6 /* wind.jpg */,
+				834D684F22943DFE00E89EA6 /* winter-sounds.jpg */,
+				834D686322943DFF00E89EA6 /* zen-garden.jpg */,
+				836FD8DE228077DB00A86ACD /* gradientOverlay.png */,
+				835FEA0922802A6600A6DA97 /* bell.jpg */,
+				835FEA0622802A6600A6DA97 /* calm-piano.jpg */,
+				835FEA0B22802A6600A6DA97 /* didgeridoo.jpg */,
+				835FEA0422802A6600A6DA97 /* echo-tube.jpg */,
+				835FEA0722802A6600A6DA97 /* electric-waterdrop.jpg */,
+				835FEA0A22802A6600A6DA97 /* forest.jpg */,
+				835FEA0C22802A6600A6DA97 /* mystic-opera.jpg */,
+				835FEA0D22802A6600A6DA97 /* owl-hooting.jpg */,
+				835FEA0522802A6600A6DA97 /* relaxing-horn.jpg */,
+				835FEA0822802A6600A6DA97 /* underwater-bass.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		835FEA1F2280419A00A6DA97 /* playlist */ = {
+			isa = PBXGroup;
+			children = (
+				834D68A322943F7900E89EA6 /* acoustic-guitar.mp3 */,
+				834D68B022943F7A00E89EA6 /* african-drums.mp3 */,
+				834D68B122943F7A00E89EA6 /* ambient-guitar.mp3 */,
+				834D689022943F7800E89EA6 /* birds-sing.mp3 */,
+				834D68A122943F7900E89EA6 /* choir.mp3 */,
+				834D689622943F7900E89EA6 /* clock.mp3 */,
+				834D68AC22943F7A00E89EA6 /* crickets.mp3 */,
+				834D68AD22943F7A00E89EA6 /* cyber-chill.mp3 */,
+				834D689A22943F7900E89EA6 /* deep-harph.mp3 */,
+				834D689B22943F7900E89EA6 /* desert-blues.mp3 */,
+				834D68AE22943F7A00E89EA6 /* drops-cave.mp3 */,
+				834D689922943F7900E89EA6 /* elf-song.mp3 */,
+				834D689F22943F7900E89EA6 /* fireplace.mp3 */,
+				834D68A922943F7A00E89EA6 /* flute.mp3 */,
+				834D689122943F7800E89EA6 /* frogs.mp3 */,
+				834D68A722943F7A00E89EA6 /* guzheng.mp3 */,
+				834D68AB22943F7A00E89EA6 /* hang-drum.mp3 */,
+				834D68B222943F7A00E89EA6 /* heart-beat.mp3 */,
+				834D68AF22943F7A00E89EA6 /* low-synth.mp3 */,
+				834D68A522943F7900E89EA6 /* mantra.mp3 */,
+				834D68B322943F7A00E89EA6 /* meditate.mp3 */,
+				834D68B422943F7A00E89EA6 /* neon-synth.mp3 */,
+				834D689D22943F7900E89EA6 /* nostalgic-synth.mp3 */,
+				834D689E22943F7900E89EA6 /* outer-space.mp3 */,
+				834D68A422943F7900E89EA6 /* rain-fall.mp3 */,
+				834D68B522943F7A00E89EA6 /* reverse-track.mp3 */,
+				834D689722943F7900E89EA6 /* river-flow.mp3 */,
+				834D689322943F7800E89EA6 /* sax.mp3 */,
+				834D689422943F7800E89EA6 /* seaguls.mp3 */,
+				834D689522943F7900E89EA6 /* sitar.mp3 */,
+				834D68A822943F7A00E89EA6 /* sonar.mp3 */,
+				834D68A022943F7900E89EA6 /* temple-bell.mp3 */,
+				834D68A622943F7A00E89EA6 /* thunderstorm.mp3 */,
+				834D689C22943F7900E89EA6 /* tibetan-bowl.mp3 */,
+				834D689222943F7800E89EA6 /* violin-orchestra.mp3 */,
+				834D689822943F7900E89EA6 /* water-drop.mp3 */,
+				834D68B622943F7A00E89EA6 /* wind-chimes.mp3 */,
+				834D68B722943F7A00E89EA6 /* wind.mp3 */,
+				834D68A222943F7900E89EA6 /* winter-sounds.mp3 */,
+				834D68AA22943F7A00E89EA6 /* zen-garden.mp3 */,
+				835FEA22228041B600A6DA97 /* bell.mp3 */,
+				835FEA21228041B500A6DA97 /* calm-piano.mp3 */,
+				835FEA20228041B500A6DA97 /* didgeridoo.mp3 */,
+				835FEA28228041B600A6DA97 /* echo-tube.mp3 */,
+				835FEA26228041B600A6DA97 /* electric-waterdrop.mp3 */,
+				835FEA27228041B600A6DA97 /* forest.mp3 */,
+				835FEA25228041B600A6DA97 /* mystic-opera.mp3 */,
+				835FEA29228041B600A6DA97 /* owl-hooting.mp3 */,
+				835FEA23228041B600A6DA97 /* relaxing-horn.mp3 */,
+				835FEA24228041B600A6DA97 /* underwater-bass.mp3 */,
+			);
+			path = playlist;
+			sourceTree = "<group>";
+		};
+		F49117DF2296831B001AC373 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				F49117E022968337001AC373 /* Extexsions.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		835FE9CF227B193B00A6DA97 /* MeditationSounds */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 835FE9F8227B194000A6DA97 /* Build configuration list for PBXNativeTarget "MeditationSounds" */;
+			buildPhases = (
+				835FE9CC227B193B00A6DA97 /* Sources */,
+				835FE9CD227B193B00A6DA97 /* Frameworks */,
+				835FE9CE227B193B00A6DA97 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MeditationSounds;
+			productName = MeditationSounds;
+			productReference = 835FE9D0227B193B00A6DA97 /* MeditationSounds.app */;
+			productType = "com.apple.product-type.application";
+		};
+		835FE9E3227B193F00A6DA97 /* MeditationSoundsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 835FE9FB227B194000A6DA97 /* Build configuration list for PBXNativeTarget "MeditationSoundsTests" */;
+			buildPhases = (
+				835FE9E0227B193F00A6DA97 /* Sources */,
+				835FE9E1227B193F00A6DA97 /* Frameworks */,
+				835FE9E2227B193F00A6DA97 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				835FE9E6227B193F00A6DA97 /* PBXTargetDependency */,
+			);
+			name = MeditationSoundsTests;
+			productName = MeditationSoundsTests;
+			productReference = 835FE9E4227B193F00A6DA97 /* MeditationSoundsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		835FE9EE227B194000A6DA97 /* MeditationSoundsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 835FE9FE227B194000A6DA97 /* Build configuration list for PBXNativeTarget "MeditationSoundsUITests" */;
+			buildPhases = (
+				835FE9EB227B194000A6DA97 /* Sources */,
+				835FE9EC227B194000A6DA97 /* Frameworks */,
+				835FE9ED227B194000A6DA97 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				835FE9F1227B194000A6DA97 /* PBXTargetDependency */,
+			);
+			name = MeditationSoundsUITests;
+			productName = MeditationSoundsUITests;
+			productReference = 835FE9EF227B194000A6DA97 /* MeditationSoundsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		835FE9C8227B193B00A6DA97 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "Rijad Babovic";
+				TargetAttributes = {
+					835FE9CF227B193B00A6DA97 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					835FE9E3227B193F00A6DA97 = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = 835FE9CF227B193B00A6DA97;
+					};
+					835FE9EE227B194000A6DA97 = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = 835FE9CF227B193B00A6DA97;
+					};
+				};
+			};
+			buildConfigurationList = 835FE9CB227B193B00A6DA97 /* Build configuration list for PBXProject "MeditationSounds" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 835FE9C7227B193B00A6DA97;
+			productRefGroup = 835FE9D1227B193B00A6DA97 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				835FE9CF227B193B00A6DA97 /* MeditationSounds */,
+				835FE9E3227B193F00A6DA97 /* MeditationSoundsTests */,
+				835FE9EE227B194000A6DA97 /* MeditationSoundsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		835FE9CE227B193B00A6DA97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8361CAD2228561A5009BB3CB /* muteIcon.png in Resources */,
+				836FD8DF228077DB00A86ACD /* gradientOverlay.png in Resources */,
+				834D68CF22943F7B00E89EA6 /* guzheng.mp3 in Resources */,
+				834D68DC22943F7B00E89EA6 /* neon-synth.mp3 in Resources */,
+				834D68D822943F7B00E89EA6 /* african-drums.mp3 in Resources */,
+				834D688D22943DFF00E89EA6 /* birds-sing.jpg in Resources */,
+				835FEA0E22802A6600A6DA97 /* echo-tube.jpg in Resources */,
+				834D686922943DFF00E89EA6 /* water-drop.jpg in Resources */,
+				835FEA1222802A6600A6DA97 /* underwater-bass.jpg in Resources */,
+				834D68B822943F7B00E89EA6 /* birds-sing.mp3 in Resources */,
+				834D688A22943DFF00E89EA6 /* crickets.jpg in Resources */,
+				834D68D522943F7B00E89EA6 /* cyber-chill.mp3 in Resources */,
+				834D68CD22943F7B00E89EA6 /* mantra.mp3 in Resources */,
+				834D68D022943F7B00E89EA6 /* sonar.mp3 in Resources */,
+				834D68BD22943F7B00E89EA6 /* sitar.mp3 in Resources */,
+				834D68C122943F7B00E89EA6 /* elf-song.mp3 in Resources */,
+				834D68BE22943F7B00E89EA6 /* clock.mp3 in Resources */,
+				834D687F22943DFF00E89EA6 /* seaguls.jpg in Resources */,
+				834D688322943DFF00E89EA6 /* frogs.jpg in Resources */,
+				834D688722943DFF00E89EA6 /* nostalgic-synth.jpg in Resources */,
+				834D68E3229446FD00E89EA6 /* deep-harph.jpg in Resources */,
+				834D688522943DFF00E89EA6 /* clock.jpg in Resources */,
+				834D687922943DFF00E89EA6 /* flute.jpg in Resources */,
+				83628A6D22969F1700B58D5D /* playButton.png in Resources */,
+				834D68C822943F7B00E89EA6 /* temple-bell.mp3 in Resources */,
+				834D688C22943DFF00E89EA6 /* hang-drum.jpg in Resources */,
+				835FE9DE227B193F00A6DA97 /* LaunchScreen.storyboard in Resources */,
+				834D687322943DFF00E89EA6 /* outer-space.jpg in Resources */,
+				834D68DE22943F7B00E89EA6 /* wind-chimes.mp3 in Resources */,
+				835FEA2E228041B600A6DA97 /* underwater-bass.mp3 in Resources */,
+				835FEA1122802A6600A6DA97 /* electric-waterdrop.jpg in Resources */,
+				835FEA1322802A6600A6DA97 /* bell.jpg in Resources */,
+				835FEA32228041B600A6DA97 /* echo-tube.mp3 in Resources */,
+				834D688822943DFF00E89EA6 /* temple-bell.jpg in Resources */,
+				834D68DA22943F7B00E89EA6 /* heart-beat.mp3 in Resources */,
+				83628A6E22969F1700B58D5D /* pauseButton.png in Resources */,
+				834D68D222943F7B00E89EA6 /* zen-garden.mp3 in Resources */,
+				834D688F22943DFF00E89EA6 /* wind-chimes.jpg in Resources */,
+				834D686B22943DFF00E89EA6 /* drops-cave.jpg in Resources */,
+				834D68BC22943F7B00E89EA6 /* seaguls.mp3 in Resources */,
+				834D68D422943F7B00E89EA6 /* crickets.mp3 in Resources */,
+				8357636D2281766F00CCA954 /* Pacifico-Regular.ttf in Resources */,
+				834D687222943DFF00E89EA6 /* heart-beat.jpg in Resources */,
+				834D68C622943F7B00E89EA6 /* outer-space.mp3 in Resources */,
+				834D686D22943DFF00E89EA6 /* fireplace.jpg in Resources */,
+				834D68DF22943F7B00E89EA6 /* wind.mp3 in Resources */,
+				834D688022943DFF00E89EA6 /* sonar.jpg in Resources */,
+				834D687622943DFF00E89EA6 /* tibetan-bowl.jpg in Resources */,
+				834D68C022943F7B00E89EA6 /* water-drop.mp3 in Resources */,
+				835FEA2A228041B600A6DA97 /* didgeridoo.mp3 in Resources */,
+				834D687722943DFF00E89EA6 /* winter-sounds.jpg in Resources */,
+				835FEA1022802A6600A6DA97 /* calm-piano.jpg in Resources */,
+				834D68C422943F7B00E89EA6 /* tibetan-bowl.mp3 in Resources */,
+				834D686F22943DFF00E89EA6 /* sitar.jpg in Resources */,
+				834D688422943DFF00E89EA6 /* rain-fall.jpg in Resources */,
+				834D68BF22943F7B00E89EA6 /* river-flow.mp3 in Resources */,
+				834D68D622943F7B00E89EA6 /* drops-cave.mp3 in Resources */,
+				834D686E22943DFF00E89EA6 /* reverse-track.jpg in Resources */,
+				834D688622943DFF00E89EA6 /* low-synth.jpg in Resources */,
+				834D687022943DFF00E89EA6 /* ambient-guitar.jpg in Resources */,
+				834D686822943DFF00E89EA6 /* choir.jpg in Resources */,
+				834D68CB22943F7B00E89EA6 /* acoustic-guitar.mp3 in Resources */,
+				834D68CC22943F7B00E89EA6 /* rain-fall.mp3 in Resources */,
+				834D68CE22943F7B00E89EA6 /* thunderstorm.mp3 in Resources */,
+				835FE9DB227B193F00A6DA97 /* Assets.xcassets in Resources */,
+				835FEA31228041B600A6DA97 /* forest.mp3 in Resources */,
+				8361CAD1228561A5009BB3CB /* unmuteIcon.png in Resources */,
+				834D688122943DFF00E89EA6 /* violin-orchestra.jpg in Resources */,
+				834D68D922943F7B00E89EA6 /* ambient-guitar.mp3 in Resources */,
+				834D687822943DFF00E89EA6 /* mantra.jpg in Resources */,
+				834D68CA22943F7B00E89EA6 /* winter-sounds.mp3 in Resources */,
+				834D68C522943F7B00E89EA6 /* nostalgic-synth.mp3 in Resources */,
+				834D688E22943DFF00E89EA6 /* thunderstorm.jpg in Resources */,
+				835FE9D9227B193C00A6DA97 /* Main.storyboard in Resources */,
+				834D688922943DFF00E89EA6 /* cyber-chill.jpg in Resources */,
+				834D688B22943DFF00E89EA6 /* zen-garden.jpg in Resources */,
+				834D68D322943F7B00E89EA6 /* hang-drum.mp3 in Resources */,
+				834D68C322943F7B00E89EA6 /* desert-blues.mp3 in Resources */,
+				835FEA1622802A6600A6DA97 /* mystic-opera.jpg in Resources */,
+				835763752281986B00CCA954 /* moreIcon.png in Resources */,
+				834D686C22943DFF00E89EA6 /* desert-blues.jpg in Resources */,
+				835FEA2C228041B600A6DA97 /* bell.mp3 in Resources */,
+				834D68C722943F7B00E89EA6 /* fireplace.mp3 in Resources */,
+				834D687B22943DFF00E89EA6 /* african-drums.jpg in Resources */,
+				834D687522943DFF00E89EA6 /* wind.jpg in Resources */,
+				835FEA2D228041B600A6DA97 /* relaxing-horn.mp3 in Resources */,
+				834D68D722943F7B00E89EA6 /* low-synth.mp3 in Resources */,
+				834D68DB22943F7B00E89EA6 /* meditate.mp3 in Resources */,
+				835FEA30228041B600A6DA97 /* electric-waterdrop.mp3 in Resources */,
+				834D68D122943F7B00E89EA6 /* flute.mp3 in Resources */,
+				835FEA1422802A6600A6DA97 /* forest.jpg in Resources */,
+				835FEA2F228041B600A6DA97 /* mystic-opera.mp3 in Resources */,
+				834D688222943DFF00E89EA6 /* neon-synth.jpg in Resources */,
+				835FEA1722802A6600A6DA97 /* owl-hooting.jpg in Resources */,
+				834D68E2229446FD00E89EA6 /* sax.jpg in Resources */,
+				834D687C22943DFF00E89EA6 /* elf-song.jpg in Resources */,
+				8357636E2281766F00CCA954 /* Roboto-Regular.ttf in Resources */,
+				834D68B922943F7B00E89EA6 /* frogs.mp3 in Resources */,
+				835FEA0F22802A6600A6DA97 /* relaxing-horn.jpg in Resources */,
+				834D68BA22943F7B00E89EA6 /* violin-orchestra.mp3 in Resources */,
+				834D68C922943F7B00E89EA6 /* choir.mp3 in Resources */,
+				834D68DD22943F7B00E89EA6 /* reverse-track.mp3 in Resources */,
+				834D686A22943DFF00E89EA6 /* acoustic-guitar.jpg in Resources */,
+				835FEA33228041B600A6DA97 /* owl-hooting.mp3 in Resources */,
+				834D687A22943DFF00E89EA6 /* river-flow.jpg in Resources */,
+				835FEA2B228041B600A6DA97 /* calm-piano.mp3 in Resources */,
+				834D687422943DFF00E89EA6 /* guzheng.jpg in Resources */,
+				834D68BB22943F7B00E89EA6 /* sax.mp3 in Resources */,
+				835FEA1522802A6600A6DA97 /* didgeridoo.jpg in Resources */,
+				834D68C222943F7B00E89EA6 /* deep-harph.mp3 in Resources */,
+				834D687D22943DFF00E89EA6 /* meditate.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		835FE9E2227B193F00A6DA97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		835FE9ED227B194000A6DA97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		835FE9CC227B193B00A6DA97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				835FEA0222801FD000A6DA97 /* SoundCell.swift in Sources */,
+				835763772281B9AC00CCA954 /* MediaViewModel.swift in Sources */,
+				835763792281BA6700CCA954 /* Media.swift in Sources */,
+				83F3F5822282C54E00407EB3 /* AudioPlayer.swift in Sources */,
+				8361CAD422899743009BB3CB /* PlayerHandler.swift in Sources */,
+				835763712281884500CCA954 /* Config.swift in Sources */,
+				8357637322818F3F00CCA954 /* TopBarView.swift in Sources */,
+				835FE9D6227B193C00A6DA97 /* MediaViewController.swift in Sources */,
+				835FE9D4227B193B00A6DA97 /* AppDelegate.swift in Sources */,
+				8364D7972292A699000F784C /* ToastMessageView.swift in Sources */,
+				F49117E122968337001AC373 /* Extexsions.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		835FE9E0227B193F00A6DA97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				835FE9E9227B193F00A6DA97 /* MeditationSoundsTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		835FE9EB227B194000A6DA97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				835FE9F4227B194000A6DA97 /* MeditationSoundsUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		835FE9E6227B193F00A6DA97 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 835FE9CF227B193B00A6DA97 /* MeditationSounds */;
+			targetProxy = 835FE9E5227B193F00A6DA97 /* PBXContainerItemProxy */;
+		};
+		835FE9F1227B194000A6DA97 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 835FE9CF227B193B00A6DA97 /* MeditationSounds */;
+			targetProxy = 835FE9F0227B194000A6DA97 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		835FE9D7227B193C00A6DA97 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				835FE9D8227B193C00A6DA97 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		835FE9DC227B193F00A6DA97 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				835FE9DD227B193F00A6DA97 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		835FE9F6227B194000A6DA97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		835FE9F7227B194000A6DA97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		835FE9F9227B194000A6DA97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = MeditationSounds/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tech387.MeditationSounds;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		835FE9FA227B194000A6DA97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = MeditationSounds/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tech387.MeditationSounds;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		835FE9FC227B194000A6DA97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YCXLQJQ56C;
+				INFOPLIST_FILE = MeditationSoundsTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tech387.MeditationSoundsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeditationSounds.app/MeditationSounds";
+			};
+			name = Debug;
+		};
+		835FE9FD227B194000A6DA97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YCXLQJQ56C;
+				INFOPLIST_FILE = MeditationSoundsTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tech387.MeditationSoundsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeditationSounds.app/MeditationSounds";
+			};
+			name = Release;
+		};
+		835FE9FF227B194000A6DA97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YCXLQJQ56C;
+				INFOPLIST_FILE = MeditationSoundsUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tech387.MeditationSoundsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MeditationSounds;
+			};
+			name = Debug;
+		};
+		835FEA00227B194000A6DA97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YCXLQJQ56C;
+				INFOPLIST_FILE = MeditationSoundsUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tech387.MeditationSoundsUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MeditationSounds;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		835FE9CB227B193B00A6DA97 /* Build configuration list for PBXProject "MeditationSounds" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				835FE9F6227B194000A6DA97 /* Debug */,
+				835FE9F7227B194000A6DA97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		835FE9F8227B194000A6DA97 /* Build configuration list for PBXNativeTarget "MeditationSounds" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				835FE9F9227B194000A6DA97 /* Debug */,
+				835FE9FA227B194000A6DA97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		835FE9FB227B194000A6DA97 /* Build configuration list for PBXNativeTarget "MeditationSoundsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				835FE9FC227B194000A6DA97 /* Debug */,
+				835FE9FD227B194000A6DA97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		835FE9FE227B194000A6DA97 /* Build configuration list for PBXNativeTarget "MeditationSoundsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				835FE9FF227B194000A6DA97 /* Debug */,
+				835FEA00227B194000A6DA97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 835FE9C8227B193B00A6DA97 /* Project object */;
+}
